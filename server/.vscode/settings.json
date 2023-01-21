@@ -1,4 +1,4 @@
 {
-  "cSpell.words": ["fastify", "Fastify"],
+  "cSpell.words": ["dayjs", "fastify", "Fastify"],
   "conventionalCommits.scopes": ["server"]
 }
