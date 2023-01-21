@@ -1,4 +1,4 @@
 {
   "conventionalCommits.scopes": ["mobile"],
-  "cSpell.words": ["nativewind"]
+  "cSpell.words": ["dayjs", "nativewind"]
 }
